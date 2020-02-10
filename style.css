@@ -1,0 +1,23 @@
+.color {
+    color: yellow;
+}
+
+.backgroundcolor {
+    background-color: black;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    color: yellow;
+}
+
+.mattie {
+    display: flex;
+    justify-content: center;
+}
+
+.comp {
+    display: flex;
+    justify-content: center;
+}
